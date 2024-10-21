@@ -1,4 +1,4 @@
-# Applied-AI-Course-Projects
+# Applied-AI-Course - Case Studies
 
 In 2019, I enrolled in Applied AI Course and dropped out at that time after reading some Machine Learning Research Papers which consisted of scary math formulas. But later completed the course and eight Case Studies on my own.
 
